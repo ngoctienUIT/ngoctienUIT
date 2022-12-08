@@ -18,7 +18,7 @@ namespace TNT
             string Name = "Trần Ngọc Tiến";
             string Age = "2002";
             string Gender = "Male";
-	    string Email = "ngoctienTNT.vn@gmail.com"
+	    string Email = "ngoctienTNT.vn@gmail.com";
             string Address = "Khánh Hòa, Việt Nam";
             string University = "Trường Đại học Công nghệ Thông Tin - UIT";
             string Skills = "C++, C#, Java, Dart, Python, HTML, JavaScript";
