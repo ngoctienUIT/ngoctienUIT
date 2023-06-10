@@ -153,7 +153,21 @@ namespace TNT
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngoctienUIT&show_icons=true&theme=tokyonight" alt="ngoctienUIT :: Profile Stats" /></p>
 
+<p align="center">
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ngoctienUIT&theme=dark" alt="ngoctienUIT" />
+</p>
+
 ## <p align="center">Repository pin 📌</p>
+
+<p align="center">	
+<a href="https://github.com/ngoctienUIT/Coffee">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienUIT&repo=Coffee&theme=tokyonight" alt="ngoctienUIT" />
+</a>
+	
+<a href="https://github.com/ngoctienUIT/ExpenditureManagement">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienUIT&repo=ExpenditureManagement&theme=tokyonight" alt="ngoctienUIT" />
+</a>
+</p>
 
 <p align="center">	
 <a href="https://github.com/ngoctienUIT/MonopolyCheat">
